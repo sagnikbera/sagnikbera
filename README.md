@@ -3,110 +3,79 @@
 
 ---
 
-### My Tech Arsenal
+### 🛠️ My Tech Arsenal
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoWidth=30"/>
-</p>
+**Languages** – <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/> 
+<img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript"/> 
+<img src="https://img.shields.io/badge/Java-black?style=flat&logo=openjdk"/> 
+<img src="https://img.shields.io/badge/SQL-black?style=flat&logo=mysql"/>
 
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=greensock&logoWidth=30"/>
-</p>
+**Frontend** –  <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5"/> 
+<img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3"/> 
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwind-css"/> 
+<img src="https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap"/> 
+<img src="https://img.shields.io/badge/GSAP-black?style=flat&logo=greensock"/>
 
-#### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jquery&logoWidth=30"/>
-</p>
+**Frameworks & Libraries** –  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react"/> 
+<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs"/> 
+<img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux"/> 
+<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"/> 
+<img src="https://img.shields.io/badge/Express-black?style=flat&logo=express"/> 
+<img src="https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery"/>
 
-#### Databases & Backend
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoWidth=30"/>
-</p>
+**Databases & Backend** –  <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb"/> 
+<img src="https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase"/>
 
-#### Cloud & Hosting
-<p>
-  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Hostinger-black?style=for-the-badge&logo=hostinger&logoWidth=30"/>
-</p>
+**Cloud & Hosting** –  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel"/> 
+<img src="https://img.shields.io/badge/Netlify-black?style=flat&logo=netlify"/> 
+<img src="https://img.shields.io/badge/Hostinger-black?style=flat&logo=hostinger"/>
 
-#### Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visual-studio-code&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoWidth=30"/>
-</p>
+**Dev Tools** –  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/> 
+<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/> 
+<img src="https://img.shields.io/badge/Vite-black?style=flat&logo=vite"/> 
+<img src="https://img.shields.io/badge/VSCode-black?style=flat&logo=visual-studio-code"/> 
+<img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker"/> 
+<img src="https://img.shields.io/badge/NPM-black?style=flat&logo=npm"/>
 
-#### Design & Media
-<p>
-  <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator&logoWidth=30"/>
-  <img src="https://img.shields.io/badge/-Premiere_Pro-black?style=for-the-badge&logo=adobe-premiere-pro&logoWidth=30"/>
-</p>
+**Design & Media** –  <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma"/> 
+<img src="https://img.shields.io/badge/Canva-black?style=flat&logo=canva"/> 
+<img src="https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobe-photoshop"/> 
+<img src="https://img.shields.io/badge/Illustrator-black?style=flat&logo=adobe-illustrator"/> 
+<img src="https://img.shields.io/badge/Premiere_Pro-black?style=flat&logo=adobe-premiere-pro"/>
 
 ---
 
-### Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagnik-bera/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoWidth=25"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/sagnikberaofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=leetcode&logoWidth=25"/>
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/sagnikbera14xw/" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoWidth=25"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
   <a href="https://github.com/sagnikbera" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoWidth=25"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbera&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikbera&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-### LeetCode Progress
+### 🔢 LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sagnikberaofficial?ext=contest&theme=dark" alt="LeetCode Stats"/>
-</p>
-
----
-
-### My GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbera&theme=github&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
