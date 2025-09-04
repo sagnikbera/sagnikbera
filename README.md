@@ -76,7 +76,7 @@
 
 ### 🔢 LeetCode Progress
 
-<p align="center"> as on 3rd Sep'25
+<p align="center"> as on 5th Sep'25
   <br>
   <img src="https://leetcard.jacoblin.cool/sagnikberaofficial?ext=contest&theme=dark" alt="LeetCode Stats"/>
 </p>
